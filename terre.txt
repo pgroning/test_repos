@@ -1,1 +1,2 @@
-this line was added after branch hotfix was created...
+Added this line in branch hotfix.
+
